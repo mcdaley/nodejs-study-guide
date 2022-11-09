@@ -40,3 +40,6 @@ const maxCharacters = (str) => {
 const str  = "Hello World!"
 const char = maxCharacters(str)
 console.log(`[INFO] Max character = ${char}`)
+
+// Export maxCharacters
+module.exports = maxCharacters

@@ -1,10 +1,23 @@
 # Nodejs Study Guide
 A study guide for prepping for a Nodejs interview. The guide has an overview of JavaScript language features, algorithms, and data structures.
 
+## References
+* [JavaScript Interview Prep Cheatsheet](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/)
+
 __NOTE__
 * Do I want to a add a SQL section to the study guide or is that a separate guide?
+* For React guide add examples for debounce and throttling.
 
 ## JavaScript Language
+
+### Basics
+
+### Functions
+#### Scope
+#### Closures
+#### Hoisting
+
+### Objects in JavaScript
 
 ### Data Types
 
@@ -24,10 +37,19 @@ __NOTE__
 * Add, remove, find/index
 * Iterate (keys, values, & key/values)
 
-### Closures
 ### Regular Expressions
-### Hoisting
+
 ### Modules
+
+### Asynchronous - Event Loops, Timers, & Promises
+
+### Advanced Concepts
+#### Async/Defer
+#### Polyfills
+#### Debouncing
+#### Throttling
+
+### Storage
 
 ## Algorithms
 [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
